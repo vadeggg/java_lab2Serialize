@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="serialize.UserTestJunit" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-09T06:28:25" hostname="LAPTOP-QMN0TTSR" time="0.243">
+  <properties/>
+  <testcase name="testUserForModifiers()" classname="serialize.UserTestJunit" time="0.243"/>
+  <system-out><![CDATA[lab2.User{ name=name, surname=surname, user_type=some_type }
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
